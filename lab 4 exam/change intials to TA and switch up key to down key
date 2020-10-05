@@ -92,3 +92,8 @@ while True:
   if not selection:      
     current_mode = sensors[index % 3]
     update_screen(current_mode)
+    
+    
+    
+ git add .
+ git push origin master
